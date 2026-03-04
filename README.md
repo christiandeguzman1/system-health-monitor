@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue" />
+  <img src="https://img.shields.io/badge/Streamlit-Dashboard-red" />
+  <img src="https://img.shields.io/badge/System-Monitoring-green" />
+  <img src="https://img.shields.io/badge/Visualization-RealTime-orange" />
+</p>
+
 ## Real-Time System Health Monitor
 
 A real-time system monitoring dashboard built with Python, Streamlit, and psutil.
